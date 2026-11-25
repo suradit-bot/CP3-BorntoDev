@@ -1,0 +1,4 @@
+s=int(input(" กรอกระยะทาง: "))
+t=int(input("กรอกเวลา: "))
+V=int(s/t)
+print(V, "M/S")
